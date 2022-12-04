@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Data_and_Operations/src/Datatypejava&apos; to &apos;Datatype.java&apos;" description="Rename resource &apos;Datatypejava&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/Datatypejava" name="Datatype.java" stamp="1670076653448" updateReferences="true"/>
+</session>

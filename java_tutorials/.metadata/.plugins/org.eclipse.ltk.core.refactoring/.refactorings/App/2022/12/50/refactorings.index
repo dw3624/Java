@@ -1,0 +1,8 @@
+1670133819369	Extract method 'getVAT'
+1670133973746	Convert local variable 'vatRate' to field
+1670134029912	Extract method 'getTotal'
+1670134081320	Extract method 'getExpense'
+1670134119739	Convert local variable 'expenseRate' to field
+1670134140956	Extract method 'getIncome'
+1670134192311	Extract method 'getDividend1'
+1670134259680	Extract method 'print'
